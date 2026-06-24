@@ -189,7 +189,7 @@ export default function App() {
 
             <div>
               <p className="hero-badge animate-fade-up-delay-1">⚡ Available for new projects</p>
-              <h1 className="animate-fade-up-delay-2">Oscar Murguías</h1>
+              <h1 className="animate-fade-up-delay-2">Oscar Murguia Saracho</h1>
               <p className="hero-subtitle animate-fade-up-delay-3">
                 DevOps Engineer · 3 años automatizando infraestructura en la nube, construyendo pipelines y llevando sistemas a producción con confianza.
               </p>
